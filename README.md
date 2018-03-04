@@ -1,6 +1,6 @@
 # Stresser
 
-![Latest Version](https://pypip.in/version/stresser/badge.svg)
+![Latest Version](https://img.shields.io/pypi/v/stresser.svg)
 
 Stresser is a large-scale stress testing framework consists of one
 **Commander** (client) and an arbitrary number of **Soldiers** (servers).
